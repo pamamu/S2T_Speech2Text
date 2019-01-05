@@ -1,0 +1,9 @@
+
+\.idea/
+
+*.mp3
+*.wav
+
+lib
+
+\.DS_Store
