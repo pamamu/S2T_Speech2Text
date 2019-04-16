@@ -21,5 +21,5 @@ class Speech2TextHandler(ContainerHandler):
         pass
 
     def process_speech(self, input_json, output_folder):
-        # TODO IMPLEMENT dict generation
+
         return "OK"
