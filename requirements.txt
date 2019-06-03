@@ -3,3 +3,4 @@ Pyro4==4.74
 selectors34==1.2
 serpent==1.27
 six==1.12.0
+pocketsphinx==0.1.15

@@ -9,7 +9,7 @@ WORKDIR /srv/S2T/S2T_Speech2Text
 
 ADD . .
 
-RUN apk add --update pulseaudio-dev alsa-lib-dev
+RUN apk add --update pulseaudio-dev alsa-lib-dev swig git
 RUN pip install -r requirements.txt
 
 CMD python src/app.py $SPEECH2TEXT_NAME $SHARED_FOLDER
