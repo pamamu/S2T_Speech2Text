@@ -1,0 +1,6 @@
+{
+  "audio_path": "",
+  "acoustic_model_path": "es-es_acoustic_model",
+  "dictionary_path": "es.dic",
+  "language_model_path": "model.lm"
+}
